@@ -4,3 +4,6 @@
 # José Arturo Silva Flores A01198049
 # Luis David Sánchez Castillo A01275655
 # Nayeli Peña Martínez A01368516
+
+
+#DANIEL NAJERA - HOLA
